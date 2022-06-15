@@ -1,2 +1,4 @@
 Link para dowload do GIT: https://git-scm.com/
 O Git é um terminal extendido para otimizar o uso do Git.
+Pelo curso aprendi alguns comandos basicos para navegação pelo Git.
+Também, como criar repositorios e editar os mesmos.
